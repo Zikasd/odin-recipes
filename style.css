@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+    color: bisque;
+}
+ul {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(223, 211, 235);
+}
+ img {
+     height: auto;
+     width: 200px;
+ }
